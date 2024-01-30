@@ -1,1 +1,1 @@
-alias less='less'
+alias less='less -R'
