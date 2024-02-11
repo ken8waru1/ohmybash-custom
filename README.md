@@ -1,1 +1,1 @@
-[Oh My Bash](https://github.com/ohmybash/oh-my-bash/) customizations. Currently just a slightly modified version of the [agnoster](https://github.com/ohmybash/oh-my-bash/tree/master/themes/agnoster) theme.
+[Oh My Bash](https://github.com/ohmybash/oh-my-bash/) customizations.
